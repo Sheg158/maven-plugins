@@ -9,7 +9,7 @@
 	<artifactId>groovy-mojo-extractor</artifactId>
 	<name>${project.groupId}:${project.artifactId}</name>
 	<properties>
-		<version.org.apache.maven.plugin-tools>3.3</version.org.apache.maven.plugin-tools>
+		<version.org.apache.maven.plugin-tools>3.9.0</version.org.apache.maven.plugin-tools>
 		<version.org.codehaus.groovy>2.1.8</version.org.codehaus.groovy>
 	</properties>
 	<dependencies>
